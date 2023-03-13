@@ -56,8 +56,5 @@ footer {
 }
 
 #secret {
-    position: absolute;
-    top: 0;
-    left: 50%;
     color: #191919;
 }
