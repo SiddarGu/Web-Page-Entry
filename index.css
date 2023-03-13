@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-color: black;
+    background-color: #191919;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,17 +15,18 @@ body {
 
 #name {
     font-size: 3em;
+    color: #bbb;
 }
 
 #upper {
     font-size: 1.5em;
-    color: antiquewhite;
+    color: #eee;
     text-align: center;
     margin: 0 0.5em;
 }
 
 #info {
-    color: red;
+    color: #eee;
     font-size: 2.3em;
     text-align: center;
     margin: 0 1em;
