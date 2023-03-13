@@ -35,3 +35,7 @@ footer {
     flex-wrap: wrap-reverse;
     text-align: center;
   }
+
+  #upper br {
+    display: none;
+  }
