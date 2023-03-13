@@ -34,8 +34,14 @@ footer {
     align-items: center;
     flex-wrap: wrap-reverse;
     text-align: center;
-  }
+}
 
-  #upper br {
+#upper br {
     display: none;
-  }
+}
+
+#secret {
+    position: absolute;
+    top: 0;
+    left: 50%;
+}
